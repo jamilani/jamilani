@@ -3,7 +3,6 @@
 - JAVA
 - HTML
 - CSS
-- PYTHON
 - C
 - C++
 - ENTRE OUTRAS desejo me  tornar uma Desenvolvedora Full Stack
