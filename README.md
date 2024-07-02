@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamilani
-- 🌱 I’m currently learning ...atualmente tenho  noções basicas em linguagens de programação
+- 🌱  ...Atualmente tenho  noções basicas em linguagens de programação
 - JAVA
 - HTML
 - CSS
